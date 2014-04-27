@@ -8,7 +8,7 @@ This sample use [spark framework](https://github.com/perwendel/spark).
 2. Access to `http://localhost:4567` by web browser.
 3. Type client id and client secret. (provide [Google Developer Console](https://console.developers.google.com/).
 4. Click `Connect` button.
-5. Got it! Pooooohhhhhhh!
+5. Got it! Poooooooowwwwweeeeeee!
 
 ## License
 The MIT License (MIT).
